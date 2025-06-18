@@ -16,9 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/minli.pdf", title: "CV"}
+  - {url: "/minli.pdf", title: "CV"}
   - {file: "blog.md", title: "Blog"}
-  - {file: "minli_moments.pdf", title: "Touching_moments"}
+  - {url: "/minli_moments.pdf", title: "Touching_moments"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:mlruan@umich.edu"}
