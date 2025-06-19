@@ -4,7 +4,6 @@ title: "Publications and Patents"
 permalink: /publications/
 ---
 
-# Publications and Patents
 
 1. **Minli Ruan**, Sean M. Engels, Matthew R. Burroughs, Dylan Bloch, Oleksandra Fanari, Stuart Akeson, Daniel E. Eyler, Xiaoyan Li, Chase A. Weidmann, Sara Rouhanifard, Miten Jain, Lydia M. Contreras, Kristin S. Koutmou*.  
    *PUS7 cytoplasmic localization directs a pseudouridine-mediated cellular stress response.*  
