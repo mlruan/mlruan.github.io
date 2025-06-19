@@ -4,6 +4,9 @@ title: "Publications and Patents"
 permalink: /publications/
 ---
 
+<div style="max-width: 700px; margin: auto; padding: 0 15px;">
+
+# Publications and Patents
 
 1. **Minli Ruan**, Sean M. Engels, Matthew R. Burroughs, Dylan Bloch, Oleksandra Fanari, Stuart Akeson, Daniel E. Eyler, Xiaoyan Li, Chase A. Weidmann, Sara Rouhanifard, Miten Jain, Lydia M. Contreras, Kristin S. Koutmou*.  
    *PUS7 cytoplasmic localization directs a pseudouridine-mediated cellular stress response.*  
@@ -27,3 +30,6 @@ permalink: /publications/
 5. **Ruan Minli**, Zhang Qian.  
    *A kind of fluorescent probe for DNA methyltransferase 1 (DNMT1) and its medical uses.*  
    Chinese Patent Number: 201910750081.X
+
+</div>
+
