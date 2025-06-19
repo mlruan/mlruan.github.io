@@ -3,14 +3,9 @@ layout: default
 title: "Blog"
 ---
 
-# Blog Posts
+{% for post in site.posts %}
+  {% unless post.categories contains "backpacking" %}
+    <!-- Your post rendering logic here -->
+  {% endunless %}
+{% endfor %}
 
-<ul>
-  {% for post in site.posts %}
-    {% unless post.categories contains "backpacking" %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%b %d, %Y" }}
-      </li>
-    {% endunless %}
-  {% endfor %}
-</ul>
