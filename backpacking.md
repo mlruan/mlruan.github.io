@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Backpacking Life"
+title: "Backpacking"
 permalink: /backpacking/
 ---
 
