@@ -6,6 +6,10 @@ permalink: /backpacking/
 
 # My Backpacking Adventures
 
-Welcome to my backpacking journal! Here I’ll share stories, photos, and tips from my trips.
-
-<!-- You can add more content here or include posts filtered by category -->
+<ul>
+  {% for post in site.categories.backpacking %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.date | date: "%b %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
