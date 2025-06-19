@@ -18,6 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "/minli.pdf", title: "CV"}
   - {file: "blog.md", title: "Blog"}
+  - {file: "backpacking.md", title: "Backpacking Life"}
   - {url: "/minli_moments.pdf", title: "Touching_moments"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
