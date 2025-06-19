@@ -4,7 +4,7 @@ title: "Backpacking"
 permalink: /backpacking/
 ---
 
-# 
+
 
 <ul>
   {% for post in site.categories.backpacking %}
