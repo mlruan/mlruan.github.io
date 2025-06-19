@@ -10,8 +10,8 @@ title: ""
     <img src="https://raw.githubusercontent.com/mlruan/mlruan.github.io/master/assets/Minli_Ruan1.JPG" alt="Minli Ruan" style="max-width: 100%; height: auto; border-radius: 10px;">
   </div>
 
-  <!-- Right half: Text -->
-  <div style="flex: 1; min-width: 300px; padding-left: 30px;">
+  <!-- Right half: Text with larger font -->
+  <div style="flex: 1; min-width: 300px; padding-left: 30px; font-size: 18px; line-height: 1.6;">
     <p>
       As a PhD candidate in biological chemistry at the University of Michigan, I am passionate about understanding the molecular mechanisms that govern RNA biology and its impact on cell fitness.
     </p>
@@ -24,4 +24,3 @@ title: ""
   </div>
 
 </div>
-
