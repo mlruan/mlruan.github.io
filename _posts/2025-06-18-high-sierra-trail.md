@@ -7,10 +7,7 @@ categories: backpacking
 ## 7-day solo backpacking High Sierra Trail
 
 
+Here’s a video from the journey from 20250602-20250608:
 
-## Embedded content
-
-Here’s a video from the journey:
-
-{% include embed.html url="https://www.youtube.com/watch?v=zmd_l1RpOVM" %}
+{% include embed.html url="https://www.youtube.com/embed/zmd_l1RpOVM" %}
 
