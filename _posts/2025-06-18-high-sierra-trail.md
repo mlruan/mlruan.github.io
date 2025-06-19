@@ -1,7 +1,9 @@
 ---
 title: "High Sierra Trail Adventure"
-date: 2025-06-18
+mathjax: true
+layout: post
 categories: backpacking
 ---
+## 7-day solo backpacking High Sierra Trail
 
-Your backpacking story content here...
+
